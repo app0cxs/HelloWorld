@@ -1,0 +1,21 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 228E-5FFC
+
+ Directory of C:\Users\app0cxs\workspace1
+
+09/13/2017  01:53 PM    <DIR>          .
+09/13/2017  01:53 PM    <DIR>          ..
+05/26/2017  11:11 AM    <DIR>          .metadata
+07/27/2017  11:49 AM    <DIR>          .recommenders
+07/27/2017  11:19 AM    <DIR>          .sonarlint
+07/27/2017  02:36 PM    <DIR>          Event Planning
+09/12/2017  03:42 PM    <DIR>          Hello
+09/12/2017  03:25 PM    <DIR>          Hello Project
+07/27/2017  11:15 AM    <DIR>          Lab03_Hello
+07/27/2017  04:28 PM    <DIR>          Lab04.1
+07/28/2017  09:09 AM    <DIR>          Parking
+05/26/2017  11:12 AM    <DIR>          RemoteSystemsTempFiles
+07/28/2017  09:12 AM    <DIR>          Servers
+09/13/2017  01:53 PM                 0 test1.txt
+               1 File(s)              0 bytes
+              13 Dir(s)  177,236,578,304 bytes free
